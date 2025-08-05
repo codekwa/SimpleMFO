@@ -1,4 +1,4 @@
-![Simple MFO Logo](https://raw.githubusercontent.com/CodeKwa/SimpleMFO/main/assets/SimpleMFO.png)
+![Simple MFO Logo](SimpleMFO.png)
 
 **Simple MFO - Music File Organizer**  
 **Organize Smarter**

@@ -1,11 +1,11 @@
-![Simple MFO Logo](SimpleMFO.png)
+![SmplMFO Logo](SmplMFO.png)
 
-**Simple MFO - Music File Organizer**  
+**SmplMFO - Music File Organizer**  
 **Organize Smarter**
 
 ---
 
-Simple MFO (Music File Organizer) is a smart desktop tool that automatically organizes your music collection by artist and album, fills in missing metadata, adds album art, and restructures your library into a clean folder format.
+SmplMFO (Music File Organizer) is a smart desktop tool that automatically organizes your music collection by artist and album, fills in missing metadata, adds album art, and restructures your library into a clean folder format.
 
 Built for Windows and powered by **CodeKwa – Kwami J.M.**, it supports MP3, M4A, FLAC, WAV, and all major Windows-compatible formats.
 
@@ -35,7 +35,7 @@ Built for Windows and powered by **CodeKwa – Kwami J.M.**, it supports MP3, M4
 ---
 
 ## 📦 Downloads
-- **Freemium**: [Download on GitHub](https://github.com/CodeKwa/SimpleMFO)
+- **Freemium**: [Download on GitHub](https://github.com/CodeKwa/SmplMFO)
 - **Premium**: [Get the Pro Version on smplsuite.com](https://smplsuite.com/simplemfo)
 
 ---

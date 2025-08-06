@@ -36,7 +36,7 @@ Built for Windows and powered by **CodeKwa – Kwami J.M.**, it supports MP3, M4
 
 ## 📦 Downloads
 - **Freemium**: [Download on GitHub](https://github.com/CodeKwa/SmplMFO)
-- **Premium**: [Get the Pro Version on smplsuite.com](https://smplsuite.com/simplemfo)
+- **Premium**: [Get the Pro Version on smplsuite.com](https://smplsuite.com/downloads/simplemfo-premium/)
 
 ---
 
